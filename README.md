@@ -1,2 +1,2 @@
 # django-CRM
-First django project. 
+First django project based on the Django Crash Course by Dennis Ivy https://www.youtube.com/watch?v=xv_bwpA_aEA&list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO
